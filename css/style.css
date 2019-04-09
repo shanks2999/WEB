@@ -632,6 +632,10 @@ body.offcanvas {
     font-family: "Quicksand", Arial, sans-serif;
     font-size: 16px;
     font-weight: 500; }
+.services.color-1 {
+  border-bottom: 2px solid #3182bd; }
+.services.color-1 .icon2 i {
+  color: #3182bd; }
   .services.color-2 {
     border-bottom: 2px solid #ec5453; }
     .services.color-2 .icon2 i {
@@ -697,6 +701,12 @@ body.offcanvas {
       font-size: 16px;
       font-weight: 700;
       text-transform: uppercase; }
+.services.color-1 .icon {
+  background: #3182bd; }
+.services.color-1 .icon:before {
+  border-color: transparent transparent #3182bd transparent; }
+.services.color-1 .icon:after {
+  border-color: #3182bd transparent transparent transparent; }
   .services.color-2 .icon {
     background: #ec5453; }
     .services.color-2 .icon:before {
